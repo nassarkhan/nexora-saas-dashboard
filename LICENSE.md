@@ -1,3 +1,8 @@
+## Which licence applies
+
+- **Direct sales (outside Envato):** this proprietary licence applies. A Standard licence covers one project; an Extended licence covers multiple projects and client work.
+- **Sales on CodeCanyon:** governed by Envato's Regular/Extended licences (see Envato licence terms at purchase). This proprietary licence does **not** apply to a CodeCanyon purchase — do not treat its Standard/Extended terms as the Envato licences.
+
 # Nexora SaaS Dashboard — Licence
 
 Copyright (c) 2026 Nexora. All rights reserved.
@@ -30,4 +35,4 @@ The template is provided "as is", without warranty of any kind. The seller is no
 
 ## Support
 
-Standard licence: install and usage help by email. Extended licence: priority email support. See README.md for the support address.
+Support is provided through the support channel for where you bought Nexora — the item's support page on CodeCanyon, or the seller's store page for direct sales. No support email address is provided with this template.

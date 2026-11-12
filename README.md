@@ -64,6 +64,8 @@ The data layer is deliberately isolated: `src/lib/store.tsx` (state + actions) a
 
 Proprietary — see `LICENSE.md`. A **Standard licence** covers one project. An **Extended licence** covers multiple projects and client work. You may not redistribute, resell, share or publish the source code.
 
+Sales on CodeCanyon are governed by Envato's Regular/Extended licences (see Envato licence terms at purchase); this proprietary licence applies to direct sales outside Envato. See `LICENSE.md` and `LICENSE-CODECANYON.md`.
+
 ## Support
 
-For install or usage help, email support@nexora.io. Include the page, the action you took, and any message shown on screen.
+For install or usage help, use the support channel for where you bought Nexora: on CodeCanyon, use the item's support page; for direct sales, use the seller's store page. Include the page, the action you took, and any message shown on screen.

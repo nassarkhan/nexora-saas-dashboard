@@ -296,7 +296,7 @@ export default function Layout() {
           <GlobalSearch />
           <button
             type="button"
-            onClick={() => pushToast('Support: support@nexora.io — replies within one business day (demo).')}
+            onClick={() => pushToast('Support: use the support page for where you bought Nexora.')}
             aria-label="Help and support"
             className="rounded-lg p-2 text-slate-500 hover:bg-slate-100 hover:text-slate-700 dark:text-slate-400 dark:hover:bg-slate-800 dark:hover:text-slate-200"
           >

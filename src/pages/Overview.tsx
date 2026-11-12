@@ -43,7 +43,8 @@ function Kpi({ label, value, change, prevLabel, icon, spark, sparkColor }: {
 }
 
 const TRAFFIC = [
-  { name: 'Organic Search', value: 42, color: '#0f172a' },
+  // Indigo-500: visible on white AND dark navy (was #0f172a slate, invisible in dark mode)
+  { name: 'Organic Search', value: 42, color: '#6366f1' },
   { name: 'Direct', value: 28, color: '#0ea5e9' },
   { name: 'Referral', value: 18, color: '#10b981' },
   { name: 'Social', value: 12, color: '#f59e0b' },
