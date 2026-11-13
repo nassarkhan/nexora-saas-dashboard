@@ -28,6 +28,19 @@ Requires Node.js 20+.
 - **Global search:** finds customers, projects and transactions and opens the exact item — even when you are already on that page
 - **Responsive:** collapsible sidebar on desktop, drawer on mobile, KPI cards stack, tables scroll horizontally inside their cards (no page-level horizontal overflow)
 
+## Nexora Pro — 20 pages
+
+This repo is the **free Lite version** (the 8 pages above). **Nexora Pro** adds 12 more pages on top of everything here:
+
+- **CRM** — leads and deals pipeline · **HR** — employees, attendance, leave requests · **Finance** — subscriptions, revenue, billing
+- **Calendar, Kanban Tasks, Team, Invoices, Inbox, E-commerce dashboard**
+- **Auth pages:** Login, Signup, Forgot password (demo only — no backend)
+
+Buy Pro on Gumroad:
+
+- **Standard — $49 (one project):** https://nassarkhan.gumroad.com/l/veuhx
+- **Extended — $149 (multiple / client projects):** https://nassarkhan.gumroad.com/l/satpd
+
 ## Project structure
 
 ```
